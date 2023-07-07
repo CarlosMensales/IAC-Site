@@ -6,14 +6,6 @@ hr{
 	opacity: 0.1%;
 }
 
-body{
-
-}
-
-section{
-
-}
-
 #topo{
 	width: 100%;
 	height: 45px;
@@ -24,7 +16,6 @@ section{
 ul{
 	display: flex;
 	justify-content: flex-end;
-
 }
 
 li{
@@ -77,14 +68,6 @@ main{
 	background-color: #FFF;
 	float: left;
 	padding-top: 180px;
-}
-
-h1{
-
-}
-
-h2{
-
 }
 
 h3{
@@ -155,7 +138,7 @@ p{
 }
 
 
-aside{
+.lado{
 	width: 20%;
 	height: 2430px;
 	background-color: #F3F3F3;
